@@ -6,7 +6,7 @@ int main()
     while (1)
     {
         printf("New sleep is running...\n");
-        sleep(10);
+        sleep(4);
     }
     return 0;
 }
