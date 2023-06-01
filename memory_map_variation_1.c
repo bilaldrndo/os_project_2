@@ -21,6 +21,7 @@ int main()
             perror("mmap failed");
             return 1;
         }
+
         sleep(4);
     }
 }
